@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Video](#video)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -12,9 +12,9 @@
 
 ## Overview
 
-### Video
+### Screenshot
 
-![Video](./video/sticker-stacker.mp4)
+![Screenshot 1](./img/ss0.png), ![Screenshot 2](/img/ss1.png), [Screenshot 3](./img/ss2.png)
 
 ### Links
 
