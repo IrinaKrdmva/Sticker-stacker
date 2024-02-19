@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-![Screenshot 1](./img/ss0.png), ![Screenshot 2](/img/ss1.png), [Screenshot 3](./img/ss2.png)
+![Screenshot 1](./img/ss0.png), ![Screenshot 2](/img/ss1.png), ![Screenshot 3](./img/ss2.png)
 
 ### Links
 
