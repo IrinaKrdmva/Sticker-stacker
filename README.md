@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [A geme of Sticker Stacker](https://irinakrdmva.github.io/Sticker-stacker/)
+- Live Site URL: [A game of Sticker Stacker](https://irinakrdmva.github.io/Sticker-stacker/)
 
 ## My process
 
